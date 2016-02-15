@@ -1,0 +1,9 @@
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\bin\Debug\Laser.exe.config
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\bin\Debug\Laser.exe
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\bin\Debug\Laser.pdb
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\obj\Debug\Laser.csprojResolveAssemblyReference.cache
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\obj\Debug\Laser.Form1.resources
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\obj\Debug\Laser.Properties.Resources.resources
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\obj\Debug\Laser.csproj.GenerateResource.Cache
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\obj\Debug\Laser.exe
+\\euler\home$\diakok\2018a\zamolyi.csaba.f\documents\visual studio 2013\Projects\Laser\Laser\obj\Debug\Laser.pdb
